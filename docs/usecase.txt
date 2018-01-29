@@ -1,3 +1,7 @@
+#####testers
+1.execute smoke test on premis and cloud deployment
+
+DEVOPS
 1.build this code base from jenkins
 2.deploy the code to tomcat server
 3.use any configuration management tool acheving this
